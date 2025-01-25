@@ -1,6 +1,6 @@
 ## 🛸 Welcome to My TARDIS!
 
-It's bigger on the inside than it is on the outside! No, it really is—as you can(not) see, most of the action happens in private repositories. ![contribution graph](assets/contributions.png)
+It's bigger on the inside than it is on the outside! No, it really is—as you can(not) see, most of the action happens in private repositories. ![contribution graph](assets/contributions_sm.png)
 
 I'm a backend developer fueled by curiosity, sugar, and an unapologetic love for solving puzzles. Whether it's wrangling legacy code or building something shiny and new, I thrive on diving headfirst into challenges. My tools of the trade? Java and Delphi—an unusual combo, but one that keeps things interesting! 🛠️
 
