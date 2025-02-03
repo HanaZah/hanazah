@@ -8,6 +8,7 @@ I'm a backend developer fueled by curiosity, sugar, and an unapologetic love for
 ### 🛠️ Current Adventures
 ---
 -   🐾 **MeowPals:** A whimsical cat-themed browser game, where fun meets code [_Work in progress_]
+-   💵 **FinAdvise Planner:** What started as a small investment modeling app for personal use and evolved into challenging study project combining Java and Python for web app designed for real-world use cases (from my former financial advisor career), including client data management, financial health analysis, complex investment modeling and CRM functionalities [_Work in progress_]
 -   🏗️ **Enterprise Backend Magic:** Collaborating on the backend for the largest building supply chain in the country - think high performance, heavy lifting, and lots of data
 
 
