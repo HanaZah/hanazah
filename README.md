@@ -1,32 +1,31 @@
 ##  <img src="assets/E149_color.png" width="50" height="50"> Welcome to My TARDIS!
 
-It's bigger on the inside than it is on the outside! No, it really is - as you can(not) see, most of the action happens in private repositories 🔍&nbsp;<img src="assets/contributions_sm.png" >
+It's bigger on the inside than it is on the outside! No, it really is - as you can(not) see, most of the action happens in private repositories 🔍
 
-I'm a backend developer fueled by curiosity, sugar, and an unapologetic love for solving puzzles. Whether it's wrangling legacy code or building something shiny and new, I thrive on diving headfirst into challenges. My tools of the trade are Java and Delphi - an unusual combo, but one that keeps things interesting! 🛠️
+I'm a backend developer fueled by curiosity, sugar, and an unapologetic love for solving puzzles. Whether it's wrangling legacy code or building something shiny and new, I thrive on diving headfirst into challenges. My tools of the trade are Java (personal projects + study) and Delphi - an unusual combo, but one that keeps things interesting! 🛠️
 
 
 ### 🛠️ Current Adventures
 ---
--   🐾 **MeowPals:** A whimsical cat-themed browser game, where fun meets code [_Work in progress_]
--   💵 **FinAdvise Planner:** What started as a small investment modeling app for personal use and evolved into challenging study project combining Java and Python for web app designed for real-world use cases (from my former financial advisor career), including client data management, financial health analysis, complex investment modeling and CRM functionalities [_Work in progress_]
+-   💵 **FinAdvise Planner:** What started as a small investment modeling app for personal use was turned into study project for web app designed for real-world use cases (from my former financial advisor career), including client data management, financial health analysis and with plans for much more [_Work in progress_]
+-   🔐 **Learning Security:** Purely learning project where I experiment with Spring Security and OAuth2 [_Work in progress_]
 -   🏗️ **Enterprise Backend Magic:** Collaborating on the backend for the largest building supply chain in the country - think high performance, heavy lifting, and lots of data
-
+  
 
 ### 🗺️ Skill Roadmap
 ---
 What I've learned ✅, what I'm working on 🟨, and where I'm headed ⬜:
 
--   ✅ Java
--   ✅ Delphi
--   ✅ SQL
--   ✅ JavaScript
+-   ✅ Java basics (OOP)
 -   ✅ Spring Boot
+-   ✅ Delphi
+-   ✅ MySQL, T-SQL
+-   ✅ JavaScript & React basics
 -   ✅ REST API
+-   🟨 Spring Security
 -   🟨 Python
--   🟨 React for frontend basics
 -   ⬜ Machine learning
 -   ⬜ Big Data
-
 
 
 ### 📬 Hit Me Up
